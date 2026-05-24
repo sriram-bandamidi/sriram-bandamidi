@@ -113,21 +113,13 @@ const sriram = {
 
 ---
 
-<div align="center">
-
-### 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 ---
 
 <div align="center">
 
 **⭐ Star my repos if you find them helpful! Every star motivates me to build more ⭐**
 
-![Snake animation](https://github.com/sriram-bandamidi/sriram-bandamidi/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
